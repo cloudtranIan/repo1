@@ -8,6 +8,7 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		System.out.println("hello there");
 		System.out.println("finished");
+		System.out.println("now I have really finished");
 		
 	}
 
